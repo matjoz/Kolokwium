@@ -1,0 +1,7 @@
+├── kolokwium
+│   ├── backup
+│   ├── kopia.txt
+│   ├── sciezka.txt
+│   └── wynik.txt
+├── README.md
+└── zadanie
